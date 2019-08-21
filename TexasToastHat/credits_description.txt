@@ -1,0 +1,4 @@
+This mod only adds one item, the TexasToast Hat from TeamFortress 2.
+CREDITS:
+-Model & Texture by King_Of_Creepers [aka László_Gaming]
+-Code by 
